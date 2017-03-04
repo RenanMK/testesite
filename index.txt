@@ -1,4 +1,4 @@
-<DOCTYPE html>
+﻿<DOCTYPE html>
 <html>
     <head>
        <title>Projeto1</title>
@@ -7,6 +7,6 @@
     <body>
        <h1>Meu primeiro projeto</h1>
        <p>Usando git para controlar versões</p>
-       <p>Ola, mundo!</p>
+       <p>Ola, mundo!!</p>
     </body>
 </html>
